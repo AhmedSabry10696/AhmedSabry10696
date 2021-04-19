@@ -1,10 +1,5 @@
 ### Hello There 👋
 
-<div align="left" style="margin: 40px 0">
-    <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=AhmedSabry10696&color=DE002D">
-    </a>
-</div>
 My name is *Ahmed Sabry* :smiley: <br>
 Interested in Embedded Systems and RTOS :wink: <br>
 
@@ -19,6 +14,10 @@ You Can **Contact** Me by My **Linkedin** Account Below 👇: <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=AhmedSabry10696)](https://github.com/AhmedSabry10696/github-profile-trophy)
 
 <br>
-
+<div align="left" style="margin: 40px 0">
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=AhmedSabry10696&color=DE002D">
+    </a>
+</div>
 
 
