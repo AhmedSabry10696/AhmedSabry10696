@@ -6,11 +6,11 @@ Interested in Embedded Systems and RTOS :wink: <br>
 You Can **Contact** Me by My **Linkedin** Account Below 👇: <br>
 **https://www.linkedin.com/in/ahmedsabry10696/**
 # status
-[![Ahmed Sabry's github stats](https://github-readme-stats.vercel.app/api?username=AhmedSabry10696)]
+![Ahmed Sabry's github stats](https://github-readme-stats.vercel.app/api?username=AhmedSabry10696)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSabry10696&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSabry10696&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AhmedSabry10696)]
+![trophy](https://github-profile-trophy.vercel.app/?username=AhmedSabry10696)
 
 <br>
 <div align="left" style="margin: 40px 0">
