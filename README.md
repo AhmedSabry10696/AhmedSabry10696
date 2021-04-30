@@ -3,7 +3,7 @@
 My name is *Ahmed Sabry* :smiley: <br>
 Interested in Embedded Systems and RTOS :wink: <br>
 
-You Can **Contact** Me by my **Linkedin** Account Below 👇: <br>
+You Can **Contact** Me by My **Linkedin** Account Below 👇: <br>
 **https://www.linkedin.com/in/ahmedsabry10696/**
 # status
 ![Ahmed Sabry's github stats](https://github-readme-stats.vercel.app/api?username=AhmedSabry10696)
