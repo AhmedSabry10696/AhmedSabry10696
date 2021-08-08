@@ -1,6 +1,6 @@
-### Hello There 👋
+### Hello everyone 👋
 
-My name is *Ahmed Sabry* :smiley: <br>
+This is *Ahmed Sabry* :smiley: <br>
 Interested in Embedded Systems and RTOS :wink: <br>
 
 You Can **Contact** Me by My **Linkedin** Account Below 👇: <br>
